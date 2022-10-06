@@ -1,0 +1,7 @@
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.csproj.AssemblyReference.cache
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.AssemblyInfoInputs.cache
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.AssemblyInfo.cs
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.csproj.CoreCompileInputs.cache
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.MvcApplicationPartsAssemblyInfo.cs
+E:\API_React\DataDB\DataDB\obj\Debug\net6.0\DataDB.MvcApplicationPartsAssemblyInfo.cache
